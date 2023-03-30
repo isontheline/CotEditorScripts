@@ -1,0 +1,2 @@
+# CotEditorScripts
+Useful CotEditor Scripts
